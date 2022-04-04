@@ -1,3 +1,7 @@
+#Codigo creado por varios metodos visto y aprendidos 
+#Se busco hacer el codigo lo mas simple podible
+#Creado por "3DWARD"
+
 from tkinter import *
 def Suma():
           sum=int(int(entry.get())+int(entrada2.get())) #en esta parte sale error
